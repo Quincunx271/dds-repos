@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to GitHub</title>
+
+<body>
+  <script>
+    window.location.href = 'https://github.com/' + window.location.href.substring(
+      window.location.href.indexOf('://') + 3,
+      window.location.href.indexOf('.github.io')) + '/dds-repos'
+  </script>
+</body>
