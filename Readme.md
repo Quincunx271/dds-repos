@@ -17,5 +17,5 @@ Packages:
   - https://github.com/Quincunx271/assert
 
 
-  [q271-public]: #quincunx271-public
-  [q271-experimental]: #quincunx271-experimental
+  [q271-public]: #quincunx271public
+  [q271-experimental]: #quincunx271experimental
